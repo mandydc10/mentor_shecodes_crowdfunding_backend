@@ -1,1 +1,1 @@
-# mentor_shecodes_django_project
+# mentor_shecodes_crowdfunding_project
